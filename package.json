@@ -1,0 +1,24 @@
+{
+  "name": "hotelbookingapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "node": "node server.js",
+    "nodemon": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themanmohan/HotelBookingApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themanmohan/HotelBookingApp/issues"
+  },
+  "homepage": "https://github.com/themanmohan/HotelBookingApp#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6"
+  }
+}
